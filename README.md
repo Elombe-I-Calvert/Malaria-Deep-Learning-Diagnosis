@@ -9,6 +9,7 @@ Convolutional Neural Networks (CNNs) compared to a baseline Random Forest model 
 classifying malaria-infected cells using the NIH Malaria dataset. Additionally, we investigated
 the influence of ImageNet weights on the VGG19 CNN model's performance</div>
 
+
 <div align="justify">We employed Grad-CAM visualization to generate saliency representations of malaria-infected cells and
 assessed their interpretability. Our findings revealed that the VGG19 CNN model, when
 augmented with ImageNet weights, outperformed other models in accuracy. Moreover, the
