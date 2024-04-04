@@ -7,7 +7,7 @@ learning offers promising potential for enhancing automated medical imaging tech
 malaria diagnosis. In this research, we evaluated the efficacy of transfer learning in
 Convolutional Neural Networks (CNNs) compared to a baseline Random Forest model for
 classifying malaria-infected cells using the NIH Malaria dataset. Additionally, we investigated
-the influence of ImageNet weights on the VGG19 CNN model's performance.</div>
+the influence of ImageNet weights on the VGG19 CNN model's performance.</div> .
 
 <div align="justify">We employed Grad-CAM visualization to generate saliency representations of malaria-infected cells and
 assessed their interpretability. Our findings revealed that the VGG19 CNN model, when
